@@ -45,6 +45,9 @@ export const PROJECTS = [
     description:
       "A modern and user-friendly PoochCare Template Website designed for pet care services.",
     technologies: ["HTML", "CSS", "JavaScript"],
+    viewCode: "https://github.com/Phat3861-hub/BC76_CAPSTONE.git",
+    liveDemo: "https://bc-76-capstone.vercel.app/",
+    demo: "https://www.youtube.com/watch?v=RKA2nJct8EQ",
   },
   {
     title: "Shoes Shop Template Website",
@@ -52,6 +55,9 @@ export const PROJECTS = [
     description:
       "A stylish and responsive Shoe Shop Template Website based on existing APIs for seamless integration.",
     technologies: ["HTML", "CSS", "JavaScript"],
+    viewCode: "https://github.com/Phat3861-hub/BC76_CAPSTONE_PROJECT.git",
+    liveDemo: "https://bc-76-capstone-project.vercel.app/",
+    demo: "https://www.youtube.com/watch?v=id6FYCJBA5Q",
   },
   {
     title: "Fiver Website",
@@ -59,6 +65,9 @@ export const PROJECTS = [
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
     technologies: ["HTML", "CSS", "React", "TailwindCss", "Redux", "AntDesign"],
+    viewCode: "https://github.com/paolotuan1606/Capstone_Fivver_Project.git",
+    liveDemo: "https://capstone-fivver-project.vercel.app/",
+    demo: "https://www.youtube.com/watch?v=8ZKlYm9t6nk&t=307s",
   },
   {
     title: "Elearning Website",
@@ -66,6 +75,9 @@ export const PROJECTS = [
     description:
       "A comprehensive eLearning website where users can register for courses, edit courses, and manage their personal information.",
     technologies: ["HTML", "CSS", "React", "TailwindCss", "Redux", "AntDesign"],
+    viewCode: "https://github.com/Phat3861-hub/BC76_ELearning_Project.git",
+    liveDemo: "https://bc-76-e-learning-project.vercel.app/",
+    demo: "https://www.youtube.com/watch?v=DjPXdRaEen4&t=11s",
   },
 ];
 

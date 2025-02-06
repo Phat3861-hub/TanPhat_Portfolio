@@ -1,6 +1,7 @@
 import React from "react";
 import { CONTACT } from "../constants";
 import { FaFacebook, FaGithub, FaInstagram } from "react-icons/fa";
+import { NavLink } from "react-router-dom";
 
 const Contact = () => {
   return (
@@ -17,9 +18,15 @@ const Contact = () => {
           </a>
         </div>
         <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-          <FaFacebook />
-          <FaGithub />
-          <FaInstagram />
+          <NavLink
+            target="blank"
+            to={`https://www.facebook.com/nguyen.phat.155373/`}
+          >
+            <FaFacebook />
+          </NavLink>
+          <NavLink target="blank" to={`https://github.com/Phat3861-hub`}>
+            <FaGithub />
+          </NavLink>
         </div>
       </div>
     </div>
